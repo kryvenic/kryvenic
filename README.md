@@ -3,7 +3,7 @@
 
 ### Hello World! 👋 Welcome to my Github
 
-- 👨‍💻 I'm Nicolás from Argentina, currently at 4th year of Information System's Bachelor.
+- 👨‍💻 I'm Nicolás from Argentina, currently in my 4th year of Information Systems.
 - 🔍My main interests in the field are Testing and Development.
 - 🧉Also a guy who loves to help others and drink mate.
 
