@@ -7,8 +7,10 @@
 - 🔍My main interests in the field are Testing and Development.
 - 🧉Also a guy who loves to help others and drink mate.
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryvenic&show_icons=true&theme=merko&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryvenic&layout=compact&theme=merko&count_private=true&langs_count=10)
 
+![](https://komarev.com/ghpvc/?username=kryvenic&style=plastic&color=brightgreen)
 
 
 ### How to reach me:
